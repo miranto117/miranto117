@@ -4,4 +4,5 @@
 :sunglasses: But that does not prevent me from understanding the back-end part well
 
 Currently I'm in mode:  
+![](https://github.com/miranto117/miranto117/blob/main/giphy.gif)
 
