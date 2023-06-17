@@ -4,4 +4,4 @@
 :sunglasses: But that does not prevent me from understanding the back-end part well
 
 Currently I'm in mode:  
-<iframe src="https://giphy.com/embed/cge9nG7e7wKWbMm9cY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IntoAction-mental-health-action-day-goodgoodgeneral-cge9nG7e7wKWbMm9cY">via GIPHY</a></p>
+
