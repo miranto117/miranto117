@@ -3,6 +3,5 @@
 :sparkling_heart: I am interested in web development especially on the front-end part  
 :sunglasses: But that does not prevent me from understanding the back-end part well
 
-Currently I'm in mode:  
-![](https://github.com/miranto117/miranto117/blob/main/giphy.gif)
+:computer: Contact me to collaborate 
 
